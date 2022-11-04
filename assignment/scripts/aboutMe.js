@@ -91,6 +91,8 @@ else {
 //      "Third is the one with the polka dot dress" if your lucky number is 3
 //      Otherwise, log "Luck is what happens when preparation meets opportunity"
 //      You'll need to research how to use switch statements!
+
+// luckyNumber =
 switch ( luckyNumber ) {
     case 1:
         console.log( 'First is the worst' );
@@ -107,4 +109,7 @@ switch ( luckyNumber ) {
 }
 
 // 18 -- Rewrite question 13 with a `ternary` operator. You'll need to do research!
+
+// adventurous = 
+adventurous ? console.log( 'Adventures are great!' ) : console.log( 'How about we stay home?' );
 
